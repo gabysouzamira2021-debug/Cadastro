@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriela.smiranda6\\source\\repos\\sistema de cadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A317140-2146-4D1B-B42D-20E6FE9E61D0}|sistema de cadastro\\sistema de cadastro.csproj|c:\\users\\gabriela.smiranda6\\source\\repos\\sistema de cadastro\\sistema de cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A317140-2146-4D1B-B42D-20E6FE9E61D0}|sistema de cadastro\\sistema de cadastro.csproj|solutionrelative:sistema de cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriela.smiranda6\\source\\repos\\sistema de cadastro\\sistema de cadastro\\Program.cs",
+              "RelativeDocumentMoniker": "sistema de cadastro\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriela.smiranda6\\source\\repos\\sistema de cadastro\\sistema de cadastro\\Program.cs",
+              "RelativeToolTip": "sistema de cadastro\\Program.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAowIABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T13:39:31.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

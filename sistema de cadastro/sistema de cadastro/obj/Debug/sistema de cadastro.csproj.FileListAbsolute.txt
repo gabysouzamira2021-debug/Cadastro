@@ -1,0 +1,7 @@
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\bin\Debug\sistema de cadastro.exe.config
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\bin\Debug\sistema de cadastro.exe
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\bin\Debug\sistema de cadastro.pdb
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\obj\Debug\sistema de cadastro.csproj.AssemblyReference.cache
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\obj\Debug\sistema de cadastro.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\obj\Debug\sistema de cadastro.exe
+C:\Users\gabriela.smiranda6\source\repos\sistema de cadastro\sistema de cadastro\obj\Debug\sistema de cadastro.pdb
